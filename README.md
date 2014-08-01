@@ -6,7 +6,7 @@ These days I am studying on solving `LeetCode Online Juage` Problems
 
 So this `repository` contents my code on it 
 
-# log(begin at 8.1.2014):
+# Log(begin at 8.1.2014):
 
 > 8.1.2014 
 
