@@ -25,6 +25,8 @@ add
 
 add
     
-    Pascal's Triangle
+    1.Pascal's Triangle
+    
+    2.Two Sum
 
 end
