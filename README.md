@@ -8,7 +8,7 @@ So this `repository` contents my code on it
 
 # Log(begin at 8.1.2014):
 
-> 8.1.2014 
+`8.1.2014` 
 
 add 
     
@@ -19,6 +19,12 @@ add
     3.Insertion Sort List 
     
     4.Pascal's Triangle II
+    
 
+`8.2.2014`
+
+add
+    
+    Pascal's Triangle
 
 end
