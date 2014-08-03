@@ -4,7 +4,7 @@
 
 These days I am studying on solving `LeetCode Online Juage` Problems 
 
-So this `repository` contents my code on it 
+So this `repository` contains my code on it 
 
 # Log(begin at 8.1.2014):
 
