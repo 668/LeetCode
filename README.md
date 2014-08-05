@@ -47,4 +47,8 @@ add
 
     Linked List Cycle II
     
+    ReverseList(helper)
+    
+    Reorder List
+    
 end
