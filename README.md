@@ -45,10 +45,10 @@ add
 
 add
 
-    Linked List Cycle II
+    1.Linked List Cycle II
     
-    ReverseList(helper)
+    2.ReverseList(helper)
     
-    Reorder List
+    3.Reorder List
     
 end
