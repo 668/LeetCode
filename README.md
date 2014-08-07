@@ -56,5 +56,11 @@ add
 add    
 
     Evaluate Reverse Polish Notation
+
+> 8.7.2014
+
+add    
+
+    Partition List
     
 end
