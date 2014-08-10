@@ -6,6 +6,8 @@ These days I am studying on solving `LeetCode Online Juage` Problems
 
 So this `repository` contains my code on it 
 
+#Progress 23/151
+
 # Log(begin at 8.1.2014):
 
 > 8.1.2014
